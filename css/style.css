@@ -1,0 +1,26 @@
+#logo {
+	height: auto;
+	width: 100%;
+}
+#linkfo {
+	font-size: 10px;
+}
+.containing-element .ui-slider-switch { width: 9em }
+
+.resize{
+    width:24px; /* you can use % */
+    height: auto;
+	vertical-align:middle;
+}
+
+.itemhitung{
+	word-wrap: break-word;
+	font-style: italic;
+	color: #FFFF00;
+}
+#line
+{
+    width:100%; height:0; 
+    border:1px solid rgb(55,55,55);
+
+} 
