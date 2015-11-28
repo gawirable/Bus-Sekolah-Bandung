@@ -25,7 +25,7 @@
 					<a href="index.php" data-icon="back" data-transition="slidedown">Kembali</a>
 				</li>
 				<li>
-					<a href="#" data-icon="refresh" data-transition="none" onclick="eksekusi(),initialize(),getLocation()">Segarkan Map</a>
+					<a href="#" data-icon="refresh" data-transition="none" onclick="eksekusi(),initialize()">Segarkan Map</a>
 				</li>
 			</ul>
 		</div>
