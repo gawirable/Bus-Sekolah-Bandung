@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <meta http-equiv="refresh" content="0; url=http://www.bussekolahbandung.esy.es/" />
-<title>Bus Sekolah Bandung - Beta Version</title>
+<title>Bus Sekolah Bandung - Version 1.0b</title>
 </head>
 <body>
 
